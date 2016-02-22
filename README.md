@@ -1,5 +1,7 @@
 # 插件说明
 
+[![Join the chat at https://gitter.im/taowen/es-monitor](https://badges.gitter.im/taowen/es-monitor.svg)](https://gitter.im/taowen/es-monitor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ```
 ./plugin.sh https://url-to-params
 ```
